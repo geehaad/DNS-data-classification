@@ -2,9 +2,7 @@
 Binary classification aiming to predict data exfiltration via DNS.
 
 implement a binary classifier aiming at predicting data
-exfiltration via DNS. In this exercise there will be two tasks graded individually. You are
-expected to implement two predictive modeling solutions: the static model, and another
-solution that adapts through time.
+exfiltration via DNS. Implement two predictive modeling solutions: the static model, and another solution that adapts through time.
 
 For both problems you will have 2 independent datasets, that should be treated accordingly:
 
